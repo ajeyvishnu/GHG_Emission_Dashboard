@@ -31,6 +31,12 @@ Here's a snapshot of the dashboard:
 
 ![Dashboard Snapshot](Snapshot.png)
 
+## Tableau Public Link
+
+You can view the interactive dashboard on Tableau Public:
+
+[Climate Tech Company Dashboard](https://public.tableau.com/views/GreenhouseGasEmissionsDashboard/GHGEMISSIONS?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
 ## Usage
 
 To use this dashboard, you can clone the repository and run the necessary Python scripts to generate the dataset and create the dashboard visualization. The code is available in the project's GitHub repository.
